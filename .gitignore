@@ -1,1 +1,7 @@
-
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+ *spatial_files/
+ *RESULTS_raw/
+ data/
